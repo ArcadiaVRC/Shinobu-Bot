@@ -1,65 +1,204 @@
-Instance 1 - 32 (Wrack 1)
+Instance 1 - 32 (Section 1)
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+⬇️Name⬇️   |  ⬇️Status⬇️  |  ⬇️Location⬇️  |
 
-Instance-1 | Running
+Instance-1  |    Running    |       DE        |
 
-Instance-w | Running
+Instance-w  |    Running    |       DE        |
 
-Instance-3 | Running
+Instance-3  |    Running    |       DE        |
 
-Instance-4 | Running
+Instance-4  |    Running    |       DE        |
 
-Instance-5 | Running
+Instance-5  |    Running    |       AT        |
 
-Instance-6 | Running
+Instance-6  |    Running    |       AT        |
 
-Instance-7 | Running
+Instance-7  |    Running    |       AT        |
 
-Instance-8 | Running
+Instance-8  |    Running    |       AT        |
 
-Instance-9 | Running
+Instance-9  |    Running    |       US        |
 
-Instance-10 | Running
+Instance-10 |    Running    |       US        |
 
-Instance-11 | Running
+Instance-11 |    Running    |       US        |
 
-Instance-12 | Running
+Instance-12 |    Running    |       US        |
 
-Instance-13 | Running
+Instance-13 |    Running    |       JP        |
 
-Instance-14 | Running
+Instance-14 |    Running    |       JP        |
 
-Instance-15 | Running
+Instance-15 |    Running    |       JP        |
 
-Instance-16 | Running
+Instance-16 |    Running    |       JP        |
 
-Instance-17 | Running
+Instance-17 |    Running    |       RU        |
 
-Instance-18 | Running
+Instance-18 |    Running    |       RU        |
 
-Instance-19 | Running
+Instance-19 |    Running    |       RU        |
 
-Instance-20 | Running
+Instance-20 |    Running    |       RU        |
 
-Instance-21 | Running
+Instance-21 |    Running    |       FR        |
 
-Instance-22 | Running
+Instance-22 |    Running    |       FR        |
 
-Instance-23 | Running
+Instance-23 |    Running    |       FR        |
 
-Instance-24 | Running
+Instance-24 |    Running    |       FR        |
 
-Instance-25 | Running
+Instance-25 |    Running    |       UK        |
 
-Instance-26 | Running
+Instance-26 |    Running    |       UK        |
 
-Instance-27 | Running
+Instance-27 |    Running    |       UK        |
 
-Instance-28 | Running
+Instance-28 |    Running    |       UK        |
 
-Instance-29 | Running
+Instance-29 |    Running    |       CH        |
 
-Instance-30 | Running
+Instance-30 |    Running    |       CH        |
 
-Instance-31 | Running
+Instance-31 |    Running    |       CH        |
 
-Instance-32 | Running
+Instance-32 |    Running    |       CH        |
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+Instance 33 - 64 (Section 2)
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+⬇️Name⬇️    |  ⬇️Status⬇️  |  ⬇️Location⬇️  |
+
+Instance-33  |    Offline    |       DE        |
+
+Instance-34  |    Offline    |       DE        |
+
+Instance-35  |    Offline    |       DE        |
+
+Instance-36  |    Offline    |       DE        |
+
+Instance-37  |    Offline    |       AT        |
+
+Instance-38  |    Offline    |       AT        |
+
+Instance-39  |    Offline    |       AT        |
+
+Instance-40  |    Offline    |       AT        |
+
+Instance-41  |    Offline    |       US        |
+
+Instance-42  |    Offline    |       US        |
+
+Instance-43  |    Offline    |       US        |
+
+Instance-44  |    Offline    |       US        |
+
+Instance-45  |    Offline    |       JP        |
+
+Instance-46  |    Offline    |       JP        |
+
+Instance-47  |    Offline    |       JP        |
+
+Instance-48  |    Offline    |       JP        |
+
+Instance-49  |    Offline    |       RU        |
+
+Instance-50  |    Offline   |       RU        |
+
+Instance-51  |    Offline    |       RU        |
+
+Instance-52  |    Offline    |       RU        |
+
+Instance-53  |    Offline    |       FR        |
+
+Instance-54  |    Offline    |       FR        |
+
+Instance-55  |    Offline    |       FR        |
+
+Instance-56  |    Offline    |       FR        |
+
+Instance-57  |    Offline    |       UK        |
+
+Instance-58  |    Offline    |       UK        |
+
+Instance-59  |    Offline    |       UK        |
+
+Instance-60  |    Offline    |       UK        |
+
+Instance-61  |    Offline    |       CH        |
+
+Instance-62  |    Offline    |       CH        |
+
+Instance-63  |    Offline    |       CH        |
+
+Instance-64  |    Offline    |       CH        |
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+Instance 65 - 96 (Section 3)
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+⬇️Name⬇️    |  ⬇️Status⬇️  |  ⬇️Location⬇️  |
+
+Instance-65  |    Offline    |       DE        |
+
+Instance-66  |    Offline    |       DE        |
+
+Instance-67  |    Offline    |       DE        |
+
+Instance-68  |    Offline    |       DE        |
+
+Instance-69  |    Offline    |       AT        |
+
+Instance-70  |    Offline    |       AT        |
+
+Instance-71  |    Offline    |       AT        |
+
+Instance-72  |    Offline    |       AT        |
+
+Instance-73  |    Offline    |       US        |
+
+Instance-74  |    Offline    |       US        |
+
+Instance-75  |    Offline    |       US        |
+
+Instance-76  |    Offline    |       US        |
+
+Instance-77  |    Offline    |       JP        |
+
+Instance-78  |    Offline    |       JP        |
+
+Instance-79  |    Offline    |       JP        |
+
+Instance-80  |    Offline    |       JP        |
+
+Instance-81  |    Offline    |       RU        |
+
+Instance-82  |    Offline    |       RU        |
+
+Instance-83  |    Offline    |       RU        |
+
+Instance-84  |    Offline    |       RU        |
+
+Instance-85  |    Offline    |       FR        |
+
+Instance-86  |    Offline    |       FR        |
+
+Instance-87  |    Offline    |       FR        |
+
+Instance-88  |    Offline    |       FR        |
+
+Instance-89  |    Offline    |       UK        |
+
+Instance-90  |    Offline    |       UK        |
+
+Instance-91  |    Offline    |       UK        |
+
+Instance-92  |    Offline    |       UK        |
+
+Instance-93  |    Offline    |       CH        |
+
+Instance-94  |    Offline    |       CH        |
+
+Instance-95  |    Offline    |       CH        |
+
+Instance-96  |    Offline    |       CH        |
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
