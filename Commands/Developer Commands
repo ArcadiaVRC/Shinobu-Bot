@@ -1,0 +1,36 @@
+Only the Bot Developer may use this Commands!
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+⮞ sh!restart - Restarts the Bot
+
+⮞ sh!stop - Stops the Bot
+
+⮞ sh!check - Checks if the SDK needs to be updated
+
+⮞ sh!menu - Opens the Consol Menu
+
+⮞ sh!changeprefix - Changes the global Bot Prefix
+
+⮞ sh!changenick - Changes the ot Nickname on the current Server
+
+⮞ sh!type - Bot starts typing
+
+⮞ sh!stoptype - Bot stops typing
+
+⮞ sh!online - Changes the Bot Status to Online
+
+⮞ sh!afk - Changes the Bot Status to afk
+
+⮞ sh!maintenance - Puts the Bot into Maintenance Mode
+
+⮞ sh!id - Shows you the current Bot ID**
+
+⮞ sh!update - Updates the SDK Version to the newest one available
+
+⮞ sh!upgrade - Upgrades the SDK Version by 1
+
+⮞ sh!downgrade - Downgrades the SDK Version by 1
+
+⮞ sh!servers - Shows you a List of Servers where the Bot is on
+
+⮞ sh!forcequit - Forcequits the mentioned User
+――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
